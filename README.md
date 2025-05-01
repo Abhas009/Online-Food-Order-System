@@ -68,13 +68,6 @@ Email : ccbd <br/> Password: CodeCampBD2023
 
 ![08](https://user-images.githubusercontent.com/78216965/220665496-113b0bc2-009d-41a7-a70c-46e4fefc2682.png)
 
-## :family_man_woman_boy_boy: Team:
-- Harshit Dutt Tyagi - [Harshit Dutt Tyagi](https://github.com/HarshitDuttTyagi)
-- Hritik Raj - [Hritik](https://github.com/hritraj)
-- Abhiuday - [Abhiuday](https://github.com/Abhiuday1020)
-
-## ✉️ Have an issues or a bug? Would like to contact?
-Report [here](https://github.com/HarshitDuttTyagi/Online-Food-Ordering-System/issues)
 
 ## If you liked the project and found it helpful
 Give a start 😄:star:
